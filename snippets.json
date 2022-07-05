@@ -16,7 +16,7 @@
 	"#EDA common import",
         "import numpy as np",
         "import pandas as pd",
-        "import matplotlib as mpl",
+        "import matplotlib as mpl", 
         "import matplotlib.pyplot as plt",
         "import seaborn as sns",
         "import missingno as msno",
@@ -41,7 +41,7 @@
         "from sklearn.preprocessing import LabelBinarizer",
         "from sklearn.preprocessing import Normalizer",
         "from sklearn.preprocessing import MinMaxScaler",
-        "from sklearn.preprocessing import Imputer",
+        "from sklearn.impute import SimpleImputer",
         "from sklearn.preprocessing import LabelEncoder",
         "from sklearn.pipeline import Pipeline"
       ]
